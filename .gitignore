@@ -1,14 +1,11 @@
-# Logs
 *.log
 mass_crawler.log
 crawler.log
 
-# Database
 *.db
 *.sqlite
 *.sqlite3
 
-# Python
 __pycache__/
 *.py[cod]
 *$py.class
@@ -31,21 +28,18 @@ wheels/
 *.egg
 MANIFEST
 
-# Virtual Environment
 venv/
 env/
 ENV/
 .venv/
 .env/
 
-# IDE
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
 
-# OS
 .DS_Store
 .DS_Store?
 ._*
@@ -54,19 +48,14 @@ ENV/
 ehthumbs.db
 Thumbs.db
 
-# Models and Data
 *.pkl
 *.joblib
 search_model.pkl
 
-# Temporary files
 *.tmp
 *.temp
 *.bak
 
-# Environment variables
 .env
 config.ini
 
-# Screenshots (optional - you might want to include these)
-# screenshots/
