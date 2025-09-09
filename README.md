@@ -1,4 +1,4 @@
-# Mini Wikipedia Search Engine
+# Goggles - Mini Wikipedia Search Engine
 
 A lightweight search engine that crawls Wikipedia articles and provides a web interface for searching through the collected content.
 
@@ -26,8 +26,8 @@ A lightweight search engine that crawls Wikipedia articles and provides a web in
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/mini-wikipedia-search.git
-cd mini-wikipedia-search
+git clone https://github.com/mhamzaanis/goggles.git
+cd goggles
 ```
 
 2. **Install dependencies**
@@ -85,7 +85,7 @@ python launcher.py
 ## Project Structure
 
 ```
-mini-wikipedia-search/
+goggles/
 ├── mass_crawler.py      # Main Wikipedia crawler
 ├── web_search.py        # Flask web interface
 ├── advanced_search.py   # ML-powered search
